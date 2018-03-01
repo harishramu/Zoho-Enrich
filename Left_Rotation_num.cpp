@@ -18,10 +18,10 @@ int main()
 	  for(i=n-2;i>=0;i--)
 	  {
 	    a[i+1]=a[i]; 
-      }
+          }
 	 a[0]=temp;
 	 c++;
-    }
+        }
     
     for(i=n-1;i>=0;i--)
     {
