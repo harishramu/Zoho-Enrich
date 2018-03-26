@@ -16,7 +16,6 @@ int main()
 	    {
 	        varcnt++;
 	        cout<<s[i]<<"\t";
-	        s[i]='*';
 	    }
 	    if(s[i]=='+'||s[i]=='.')
 	    {
